@@ -59,5 +59,4 @@ public enum Size {
     public char getCode(){
         return code;
     }
-
 }
